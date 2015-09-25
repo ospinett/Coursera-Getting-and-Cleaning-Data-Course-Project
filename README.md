@@ -10,4 +10,4 @@
 
 2. Run_analysis.R This file is the code and how it works
 
-3. TestTrainaverages.txt is the output data set
+3. TestTrainaverages.txt is the output data set with the average of each variable for each activity and each subject.
